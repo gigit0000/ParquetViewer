@@ -30,3 +30,4 @@ The latest version of this project was written in C# using Microsoft Visual Stud
 
 # Acknowledgements
 This utility would not be possible without: https://github.com/aloneguid/parquet-dotnet
+
